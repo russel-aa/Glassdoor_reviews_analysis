@@ -131,16 +131,16 @@ A sample of 577,992 reviews from 2008 to 2021 has been analyzed. 59.6% of the re
 
   
 ## How to Run
-- Clone repo
-<code>git clone https://github.com/yourusername/your-repo-name.git</code>
-<code>cd your-repo-name</code>
+- Clone repo   
+<code>git clone https://github.com/russel-aa/Glassdoor_reviews_analysis.git</code>   
+<code>cd Glassdoor_reviews_analysis</code>
 
-- Install dependencies
-<code>pip install pandas numpy seaborn matplotlib jupyter</code>
+- Install dependencies   
+<code>pip install pandas numpy seaborn matplotlib jupyter</code>   
 
-- Launch notebooks
-<code>jupyter notebook notebooks/Exploration.ipynb</code>
-<code>jupyter notebook notebooks/Analysis.ipynb</code>
+- Launch notebooks   
+<code>jupyter notebook notebooks/Exploration.ipynb</code>   
+<code>jupyter notebook notebooks/Analysis.ipynb</code>   
 
 
 ## Dependencies
