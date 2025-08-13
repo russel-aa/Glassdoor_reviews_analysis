@@ -6,7 +6,7 @@ The aim of this project is to explore a reviews dataset covering the period from
 
 
 ## Dataset
-The dataset is large, and it contains job descriptions and rankings among various criteria such as work-life balance, income, culture, etc. The data covers the various industries in the UK. Source: [Click here]("https://www.kaggle.com/datasets/davidgauthier/glassdoor-job-reviews")
+The dataset is large, and it contains job descriptions and rankings among various criteria such as work-life balance, income, culture, etc. The data covers the various industries in the UK. Source: [Click here](https://www.kaggle.com/datasets/davidgauthier/glassdoor-job-reviews)
 
 The columns correspond to the date of the review, the job name, the job location, the status of the reviewers, and the reviews. Reviews are divided in s sub-categories Career Opportunities, Comp & Benefits, Culture & Values, Senior Management, and Work/Life Balance. In addition, employees can add recommendations on the firm, the CEO, and the outlook.
 
